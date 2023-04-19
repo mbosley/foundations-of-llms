@@ -1,7 +1,7 @@
 ---
 title: "Foundations of LLMs Reading list"
-author: "John Doe"
-date: '2022-07-19'
+author: "Mitchell Bosley"
+date: '2023-04-19'
 bibliography: bibliography.bib
 ---
 
